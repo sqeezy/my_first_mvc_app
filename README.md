@@ -1,4 +1,4 @@
-# My first mvc app
+# My first mvc app [![Build Status](https://travis-ci.org/sqeezy/my_first_mvc_app.svg?branch=master)](https://travis-ci.org/sqeezy/my_first_mvc_app)
 
 At the moment this is just the web template from mvc.
 
